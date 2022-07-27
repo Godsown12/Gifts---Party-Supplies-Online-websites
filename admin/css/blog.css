@@ -1,0 +1,24 @@
+td img{
+    width: 90px;
+    height: 50px;
+}
+
+td .edit{
+    text-decoration: underline;
+    color: royalblue;
+}
+
+td .delete{
+    text-decoration: underline;
+    color: red;
+}
+
+.b img{
+    width: 200px;
+    height: 200px;
+}
+.b{
+    min-height: 500px;
+    background-image: url(../img/logo.jpg);
+    background-size: 200px;
+}
